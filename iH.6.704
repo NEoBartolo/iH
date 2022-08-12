@@ -1,0 +1,8 @@
+<?php
+include ('kernel/handler.php');
+include ('config/init.php');
+include ('library/common.php');
+include ('action/keyboard/store.php');
+include ('kernel/triage.php');
+
+?>
