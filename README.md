@@ -7,9 +7,7 @@
 
 > 📧:  eobartolo@tutanota.com
 
-▪▪▪▪▪▪▪▪▪▪▪▪▪
-▪▪▪▪▪▪▪▪▪▪▪▪▪
-▪▪▪▪▪▪▪▪▪▪▪▪▪
+▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪
 
 # iR0N ♡ H3ART 6
 PHP BOT Telegram API Engine
@@ -33,18 +31,12 @@ PHP BOT Telegram API Engine
 > with MySQL database connection
 > and addon includs functionality.
 
-▪▪▪▪▪▪▪▪▪▪▪▪▪
-
 ## Contribuitors:
-
 - <sup>Author (of idea):</sup> **А'Д•min [БL●'K]**
 - <sup>Developed by:</sup>  **@RESERVARIOUS**
 - <sup>Supported by:</sup> **ADMIN.MUSTACHE**
 - <sup>Sponsored & promoted by:</sup> **Eo Bartolo**
 - <sup>Presented by:</sup> **🎱iZ Inc. Technologies**
-
-
-▪▪▪▪▪▪▪▪▪▪▪▪▪
 
 ## License
 GNU GENERAL PUBLIC LICENSE
