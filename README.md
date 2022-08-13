@@ -46,6 +46,9 @@ PHP BOT Telegram API Engine
 
 ▪▪▪▪▪▪▪▪▪▪▪▪▪
 
+## License
+GNU GENERAL PUBLIC LICENSE
+
 ## Copyright
 All rights reserved: © 2020-2022
 
