@@ -37,11 +37,11 @@ PHP BOT Telegram API Engine
 
 ## Contribuitors:
 
-- Author(of idea): **А'Д•min [БL●'K]**
-- Developed by **@RESERVARIOUS**
-- Supported by **ADMIN.MUSTACHE**
-- Sponsored & promoted by **Eo Bartolo**
-- Presented by **🎱iZ Inc. Technologies**
+- <sup>Author (of idea):</sup> **А'Д•min [БL●'K]**
+- <sup>Developed by:</sup>  **@RESERVARIOUS**
+- <sup>Supported by:</sup> **ADMIN.MUSTACHE**
+- <sup>Sponsored & promoted by:</sup> **Eo Bartolo**
+- <sup>Presented by:</sup> **🎱iZ Inc. Technologies**
 
 
 ▪▪▪▪▪▪▪▪▪▪▪▪▪
