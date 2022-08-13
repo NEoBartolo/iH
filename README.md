@@ -36,7 +36,7 @@ PHP BOT Telegram API Engine
 - <sup>Developed by:</sup>  **@RESERVARIOUS**
 - <sup>Supported by:</sup> **ADMIN.MUSTACHE**
 - <sup>Sponsored & promoted by:</sup> **Eo Bartolo**
-- <sup>Presented by:</sup> **🎱iZ Inc. Technologies**
+- <sup>Publiced:</sup> **🎱iZ Inc. Technologies**
 
 ## License
 GNU GENERAL PUBLIC LICENSE
